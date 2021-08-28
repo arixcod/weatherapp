@@ -35,6 +35,3 @@ button.addEventListener('click',function(e){
 })
 
 
-window.addEventListener('DOMContentLoaded',function(){
-   
-})
